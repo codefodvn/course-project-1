@@ -1,6 +1,6 @@
-# Cerebro
+# Coure Project 1: Java class diagram generator
 
-A Java-based tool for scanning vanilla Java code and visualizing class structures through Mermaid diagrams.
+This is a repository for a project about a Java-based tool for scanning vanilla Java code and visualizing class structures through Mermaid diagrams.
 
 ## Overview
 
